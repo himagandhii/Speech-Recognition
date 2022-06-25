@@ -16,8 +16,8 @@ For Window Users:<br>
 2.)Run exe file and setup wizard will start. Click next and set up paths.<br>
 3.) After finishing installtion, pycharm will be installed and we will receive a message. Click Finish.<br>
 <hr>
-Now you have to import Pyaudio and wheel.
-1.) pip install pyaudio
-2.) pip install wheel 
+Now you have to import Pyaudio and wheel.<br>
+1.) pip install pyaudio.<br>
+2.) pip install wheel.
 <hr>
 Now you can run your personal assistant.😀
